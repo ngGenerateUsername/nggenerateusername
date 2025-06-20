@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ben Hamouda</h1>
-<h3 align="center">Fullstack Web Developer .</h3>
+<h3 align="center">"Full-stack web developer specializing in clean, efficient code. Experienced in JavaScript, React, .Net, and modern frameworks. Turning ideas into functional, scalable digital experiences. .</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nggenerateusername" alt="nggenerateusername" /></a> </p>
 
