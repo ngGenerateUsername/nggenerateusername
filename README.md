@@ -8,7 +8,7 @@
 <h3 align="left">My Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmedbh97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedbh97" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mbenhamouda099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mbenhamouda099" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/tryCatch_97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mbenhamouda099" height="30" width="40" /></a>
 <a href="https://discord.gg/tryCatch #2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tryCatch #2710" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/profile/2252339" target="blank"><img align="center" src="https://cdn.brandfetch.io/id-M19oKfL/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="tryCatch #2252339" height="30" width="40" /></a>
 </p>
