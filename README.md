@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/ahmedbh97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedbh97" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mbenhamouda099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mbenhamouda099" height="30" width="40" /></a>
 <a href="https://discord.gg/tryCatch #2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tryCatch #2710" height="30" width="40" /></a>
+<a href="https://app.hackthebox.com/profile/2252339" target="blank"><img align="center" src="https://brandfetch.com/hackthebox.com?view=library&library=default&collection=logos&asset=idei4PykNj&utm_source=https%253A%252F%252Fbrandfetch.com%252Fhackthebox.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="tryCatch #2252339" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
