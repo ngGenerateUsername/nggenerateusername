@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-stack Developer </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmedbh97" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmedbhdev/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
   <a href="mailto:mbenhamouda099@gmail.com" target="_blank">
